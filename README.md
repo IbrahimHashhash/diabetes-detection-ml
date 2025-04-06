@@ -41,8 +41,3 @@ The model was evaluated on a test set, and the following metrics were obtained:
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical computations
 - **Scikit-learn**: Machine learning and model evaluation
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/IbrahimHashhash/diabetes-detection-ml.git
